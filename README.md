@@ -5,3 +5,4 @@ Ce projet a été créé pour accompagner les étudiants dans leur parcours d'ap
 ## Documents
 
 - [Comment compter en binaire](https://github.com/piscine-prep/documents/blob/main/COMPTER_EN_BINAIRE.md)
+- [Créer une animation dans le terminal](https://github.com/piscine-prep/documents/blob/main/ANIMATION_EN_ASCII.md)
